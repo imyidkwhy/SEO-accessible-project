@@ -1,0 +1,25 @@
+main img {
+  border-radius: 100%;
+  border: 1px solid black;
+  width: 60%;
+  box-shadow: 0 0 5px black;
+  margin-bottom: 1em;
+}
+
+.logo-png {
+  width: 40px;
+  font-size: 8px;
+  margin: 0px;
+  border-color: rgba(51, 35, 35, 0.995);
+}
+.card {
+  padding: 1em;
+}
+.card img {
+  border-radius: 2%;
+  width: 80%;
+  margin: auto;
+}
+.card:hover {
+  background-color: rgba(0, 0, 0, 0.1);
+}
